@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1548774975 source:e:\__arduino\cre_2k19\__objet\serialparseurcallo_vxxbits.cpp
+	<Arduino.h>
+	<serialParseurCallo_vxxbits.h>
+
+1371033102 c:\codeblocks\arduino\hardware\arduino\cores\arduino\arduino.h
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<avr/pgmspace.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	"binary.h"
+	"WCharacter.h"
+	"WString.h"
+	"HardwareSerial.h"
+	"pins_arduino.h"
+
+1362990550 c:\codeblocks\arduino\hardware\arduino\cores\arduino\binary.h
+
+1362990550 c:\codeblocks\arduino\hardware\arduino\cores\arduino\wcharacter.h
+	<ctype.h>
+
+1371033134 c:\codeblocks\arduino\hardware\arduino\cores\arduino\wstring.h
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<avr/pgmspace.h>
+
+1362990550 c:\codeblocks\arduino\hardware\arduino\cores\arduino\hardwareserial.h
+	<inttypes.h>
+	"Stream.h"
+	"USBAPI.h"
+
+1371032830 c:\codeblocks\arduino\hardware\arduino\cores\arduino\stream.h
+	<inttypes.h>
+	"Print.h"
+
+1362990550 c:\codeblocks\arduino\hardware\arduino\cores\arduino\print.h
+	<inttypes.h>
+	<stdio.h>
+	"WString.h"
+	"Printable.h"
+
+1362990550 c:\codeblocks\arduino\hardware\arduino\cores\arduino\printable.h
+	<new.h>
+
+1362990550 c:\codeblocks\arduino\hardware\arduino\cores\arduino\new.h
+	<stdlib.h>
+
+1362990550 c:\codeblocks\arduino\hardware\arduino\cores\arduino\usbapi.h
+
+1362990550 c:\codeblocks\arduino\hardware\arduino\variants\standard\pins_arduino.h
+	<avr/pgmspace.h>
+
+1554208239 e:\__arduino\cre_2k19\__objet\serialparseurcallo_vxxbits.h
+
+1554214183 source:e:\__arduino\cre_2k19\cre_2k19__v0.cpp
+	<Arduino.h>
+	<serialParseurCallo_vxxbits.h>
+
+1548774975 source:e:\__arduino\_arduino_cre_2k19\__objet\serialparseurcallo_vxxbits.cpp
+	<Arduino.h>
+	<serialParseurCallo_vxxbits.h>
+
+1371033102 d:\codeblocks\arduino\hardware\arduino\cores\arduino\arduino.h
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<avr/pgmspace.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	"binary.h"
+	"WCharacter.h"
+	"WString.h"
+	"HardwareSerial.h"
+	"pins_arduino.h"
+
+1362990550 d:\codeblocks\arduino\hardware\arduino\cores\arduino\binary.h
+
+1362990550 d:\codeblocks\arduino\hardware\arduino\cores\arduino\wcharacter.h
+	<ctype.h>
+
+1371033134 d:\codeblocks\arduino\hardware\arduino\cores\arduino\wstring.h
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<avr/pgmspace.h>
+
+1362990550 d:\codeblocks\arduino\hardware\arduino\cores\arduino\hardwareserial.h
+	<inttypes.h>
+	"Stream.h"
+	"USBAPI.h"
+
+1371032830 d:\codeblocks\arduino\hardware\arduino\cores\arduino\stream.h
+	<inttypes.h>
+	"Print.h"
+
+1362990550 d:\codeblocks\arduino\hardware\arduino\cores\arduino\print.h
+	<inttypes.h>
+	<stdio.h>
+	"WString.h"
+	"Printable.h"
+
+1362990550 d:\codeblocks\arduino\hardware\arduino\cores\arduino\printable.h
+	<new.h>
+
+1362990550 d:\codeblocks\arduino\hardware\arduino\cores\arduino\new.h
+	<stdlib.h>
+
+1362990550 d:\codeblocks\arduino\hardware\arduino\cores\arduino\usbapi.h
+
+1362990550 d:\codeblocks\arduino\hardware\arduino\variants\standard\pins_arduino.h
+	<avr/pgmspace.h>
+
+1554208239 e:\__arduino\_arduino_cre_2k19\__objet\serialparseurcallo_vxxbits.h
+
+1556178500 source:e:\__arduino\_arduino_cre_2k19\__objet\ibt2.cpp
+	<Arduino.h>
+	<ibt2.h>
+
+1556177723 source:e:\__arduino\_arduino_cre_2k19\cre_2k19__v1.cpp
+	<Arduino.h>
+	<serialParseurCallo_vxxbits.h>
+	<ibt2.h>
+
+1556178616 e:\__arduino\_arduino_cre_2k19\__objet\ibt2.h
+
+1548774976 source:e:\__arduino\_arduino_cre_2k19\__objet\serialparseurcallo_vxxbits.cpp
+	<Arduino.h>
+	<serialParseurCallo_vxxbits.h>
+
+1554208240 e:\__arduino\_arduino_cre_2k19\__objet\serialparseurcallo_vxxbits.h
+
+1557833126 source:e:\__arduino\_arduino_cre_2k19\__objet\ibt2.cpp
+	<Arduino.h>
+	<ibt2.h>
+
+1557832745 e:\__arduino\_arduino_cre_2k19\__objet\ibt2.h
+
+1557840293 source:e:\__arduino\_arduino_cre_2k19\cre_2k19__v1.cpp
+	<Arduino.h>
+	<serialParseurCallo_vxxbits.h>
+	<ibt2.h>
+
